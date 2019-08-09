@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.org/neutrinolabs/xrdp.svg?branch=devel)](https://travis-ci.org/neutrinolabs/xrdp)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/neutrinolabs/xrdp)
 ![Apache-License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fxrdp.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fxrdp?ref=badge_shield)
 
 *Current Version:* 0.9.10
 
@@ -142,3 +143,7 @@ xrdp
 ├── xrdpvr ······ API for playing media over RDP
 └── xup ········· X11rdp and xorgxrdp client module
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fxrdp.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fxrdp?ref=badge_large)
